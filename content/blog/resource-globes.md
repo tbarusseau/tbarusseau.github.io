@@ -46,5 +46,3 @@ But... How can I do something similar?
 - Actually drawing a pretty UI around the bubble because I can't draw.
 
 # Getting started
-
-
